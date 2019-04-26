@@ -1,2 +1,3 @@
-# load-balancer
-The frea load balancer
+# The Frea Load Balancer
+
+Coming Soon!
